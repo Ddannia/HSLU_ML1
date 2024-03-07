@@ -28,6 +28,7 @@ Dependencies
 The analysis was conducted using R and several packages, including: 
 - knitr (version 1.8.0)
 - ...
+
 The code to install the above packages is written in R Markdown and can be run in RStudio.
 
 Features
