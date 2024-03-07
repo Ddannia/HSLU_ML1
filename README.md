@@ -33,12 +33,33 @@ The code to install the above packages is written in R Markdown and can be run i
 Features
 --------
 1. Data Analysis: Use descriptive statistics to summarize and describe the main characteristics of the data set.
-2. Visualization: 
-3. Statistical Analysis: 
+2. Modelling:
+  – a Linear Model
+  – a Generalised Linear Model with family set to Poisson
+  – a Generalised Linear Model with family set to Binomial
+  – a Generalised Additive Model
+  – a Neural Network
+  – a Support Vector Machine
+  – (solve an optimisation problem)
 
 Data
 ----
 (describe dataset)
+Date	                  Date
+Rented Bike Count	      Integer
+Hour	                  Integer
+Temperature	            Continuous
+Humidity	              Integer
+Wind speed	            Continuous
+Visibility	            Integer
+Dew point temperature	  Continuous
+Solar Radiation	        Continuous
+Rainfall	              Integer
+Snowfall	              Integer
+Seasons	                Categorical
+Holiday	                Binary
+Functioning Day	        Binary
+
 
 Analysis
 --------
