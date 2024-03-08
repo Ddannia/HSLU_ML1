@@ -3,7 +3,7 @@ README.md
 
 Project Name
 ------------
-Seoul Bike Sharing Demand
+Seoul Bike Sharing Demand (by 5pm, June 7th 2024)
 
 Description
 -----------
